@@ -1,12 +1,1 @@
-<?xml version="1.0" ?>
-<svg stroke="#ccc" width="100" height="90" viewBox="0 0 100 90" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <rect x="1" y="1" rx="4" ry="4" width="98" height="88" stroke-width="2" fill="transparent"/>
-    <rect x="8" y="12" rx="4" ry="4" width="84" height="78" stroke-width="2" fill="transparent"/>
-    <line x1="22" y1="12" x2="22" y2="88" stroke-width="2"/>
-    <line x1="54" y1="12" x2="54" y2="88" stroke-width="2"/>
-    <line x1="72" y1="12" x2="72" y2="88" stroke-width="2"/>
-    <line x1="8" y1="28" x2="92" y2="28" stroke-width="2"/>
-    <line x1="8" y1="44" x2="92" y2="44" stroke-width="2"/>
-    <line x1="8" y1="60" x2="92" y2="60" stroke-width="2"/>
-    <line x1="8" y1="76" x2="92" y2="76" stroke-width="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="90" stroke="#ccc" version="1.1" viewBox="0 0 100 90" xml:space="preserve"><rect width="98" height="88" x="1" y="1" fill="transparent" stroke-width="2" rx="4" ry="4"/><rect width="84" height="78" x="8" y="12" fill="transparent" stroke-width="2" rx="4" ry="4"/><line x1="22" x2="22" y1="12" y2="88" stroke-width="2"/><line x1="54" x2="54" y1="12" y2="88" stroke-width="2"/><line x1="72" x2="72" y1="12" y2="88" stroke-width="2"/><line x1="8" x2="92" y1="28" y2="28" stroke-width="2"/><line x1="8" x2="92" y1="44" y2="44" stroke-width="2"/><line x1="8" x2="92" y1="60" y2="60" stroke-width="2"/><line x1="8" x2="92" y1="76" y2="76" stroke-width="2"/></svg>
